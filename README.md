@@ -17,7 +17,7 @@ The project covers the entire data science workflow, from data cleaning and expl
 ## 🎯 Prediction Result
 
 <p align="center">
-  <img src="Screenshots/predict.png" alt="Prediction Result" max-width:100%; height:auto;'>
+  <img src="Screenshots/predict2.png" alt="Prediction Result" max-width:100%; height:auto;'>
 </p>
 
 # Project Overview
