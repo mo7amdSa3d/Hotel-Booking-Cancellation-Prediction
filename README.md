@@ -8,17 +8,17 @@ The project covers the entire data science workflow, from data cleaning and expl
 
 ## 📸 Application Screenshots
 
-### Home Page
+## 🏠 Home Page
 
-![Dashboard](Dashboard/1.jpeg)
+<p align="center">
+  <img src="dashboard/1.jpeg" alt="Home Page" width="900">
+</p>
 
+## 🎯 Prediction Result
 
-
-### Prediction Result
-
-![Prediction Result](Screenshots/predict.png)
-
-
+<p align="center">
+  <img src="Screenshots/predict.png" alt="Prediction Result" width="900">
+</p>
 
 # Project Overview
 
