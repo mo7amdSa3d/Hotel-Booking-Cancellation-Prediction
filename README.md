@@ -11,13 +11,13 @@ The project covers the entire data science workflow, from data cleaning and expl
 ## 🏠 Home Page
 
 <p align="center">
-  <img src="dashboard/1.jpeg" alt="Home Page" width="900">
+  <img src="dashboard/1.jpeg" alt="Dashboard" style="max-width:100%; height:auto;">
 </p>
 
 ## 🎯 Prediction Result
 
 <p align="center">
-  <img src="Screenshots/predict.png" alt="Prediction Result" width="900">
+  <img src="Screenshots/predict.png" alt="Prediction Result" max-width:100%; height:auto;'>
 </p>
 
 # Project Overview
