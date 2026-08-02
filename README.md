@@ -6,6 +6,20 @@ The project covers the entire data science workflow, from data cleaning and expl
 
 ---
 
+## 📸 Application Screenshots
+
+### Home Page
+
+![Dashboard](Dashboard/1.jpeg)
+
+
+
+### Prediction Result
+
+![Prediction Result](Screenshots/predict.png)
+
+
+
 # Project Overview
 
 Hotel booking cancellations are a significant challenge for the hospitality industry. Canceled reservations lead to revenue loss, poor resource allocation, and inefficient hotel operations.
